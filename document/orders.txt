@@ -1,0 +1,12 @@
+add 0 070
+move 4 053
+add 1 050
+add 5 023
+nop 2 015
+save 1 037
+save 3 021
+load 2 078
+load 0 056
+add 4 001
+minus 6 040
+save 6 084

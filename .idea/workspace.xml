@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1026eb31-9f1a-4805-bbe8-67d2c16d718e" name="Default Changelist" comment="" />
+    <list default="true" id="1026eb31-9f1a-4805-bbe8-67d2c16d718e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/ModifiedOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/UnModifiedOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pojo/UsefulStorageElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/pageTableElements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/document/pageTableElements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/StorageManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/StorageManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/PageTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/PageTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +24,7 @@
     <session id="2010410663">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="13" />
           <entry key="md" value="2" />
           <entry key="orders" value="1" />
           <entry key="txt" value="3" />
@@ -23,7 +33,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="13" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="1" />
@@ -31,119 +41,53 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1530" />
-          <entry key="md" value="107" />
-          <entry key="txt" value="211" />
+          <entry key="java" value="3258" />
+          <entry key="md" value="233" />
+          <entry key="txt" value="234" />
           <entry key="xml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1530" />
-          <entry key="Markdown" value="107" />
-          <entry key="PLAIN_TEXT" value="211" />
+          <entry key="JAVA" value="3258" />
+          <entry key="Markdown" value="233" />
+          <entry key="PLAIN_TEXT" value="234" />
           <entry key="XML" value="20" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.66484374">
+    <splitter split-orientation="horizontal" split-proportion="0.8245033">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-247">
-                  <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-                  <folding>
-                    <element signature="e#502#503#0" expanded="true" />
-                    <element signature="e#535#536#0" expanded="true" />
-                    <element signature="e#572#573#0" expanded="true" />
-                    <element signature="e#601#602#0" expanded="true" />
-                    <element signature="e#502#503#0" expanded="true" />
-                    <element signature="e#535#536#0" expanded="true" />
-                    <element signature="e#712#713#0" expanded="true" />
-                    <element signature="e#747#748#0" expanded="true" />
-                    <element signature="e#799#800#0" expanded="true" />
-                    <element signature="e#843#844#0" expanded="true" />
-                    <element signature="e#887#888#0" expanded="true" />
-                    <element signature="e#923#924#0" expanded="true" />
-                    <element signature="e#977#978#0" expanded="true" />
-                    <element signature="e#1023#1024#0" expanded="true" />
-                    <element signature="e#1079#1080#0" expanded="true" />
-                    <element signature="e#1127#1128#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/pojo/PageTable.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+                <state relative-caret-position="255">
+                  <caret line="34" column="127" selection-start-line="34" selection-start-column="127" selection-end-line="34" selection-end-column="127" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#1384#1385#0" expanded="true" />
-                    <element signature="e#1424#1425#0" expanded="true" />
-                    <element signature="e#1474#1475#0" expanded="true" />
-                    <element signature="e#1503#1504#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/core/StorageManagement.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="103">
-                  <caret line="15" column="132" selection-start-line="15" selection-start-column="132" selection-end-line="15" selection-end-column="132" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Order.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="505">
-                  <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="35" />
-                  <folding>
-                    <element signature="e#384#385#0" expanded="true" />
-                    <element signature="e#416#417#0" expanded="true" />
-                    <element signature="e#523#524#0" expanded="true" />
-                    <element signature="e#556#557#0" expanded="true" />
-                    <element signature="e#606#607#0" expanded="true" />
-                    <element signature="e#648#649#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-                  <folding>
-                    <element signature="e#120#121#0" expanded="true" />
-                    <element signature="e#169#170#0" expanded="true" />
+                    <element signature="e#540#562#0" expanded="true" />
+                    <element signature="e#3063#3064#0" expanded="true" />
+                    <element signature="e#3107#3108#0" expanded="true" />
+                    <element signature="e#2653#2654#0" expanded="true" />
+                    <element signature="e#2691#2692#0" expanded="true" />
+                    <element signature="e#2730#2731#0" expanded="true" />
+                    <element signature="e#2765#2766#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="57">
-                    <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
-                  </first_editor>
-                  <second_editor />
+            <entry file="file://$PROJECT_DIR$/src/main/java/core/StorageManagement.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="969">
+                  <caret line="51" column="94" selection-start-line="51" selection-start-column="94" selection-end-line="51" selection-end-column="94" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -164,8 +108,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/document/pageTableElements.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="114">
-                  <caret line="6" column="8" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="8" />
+                <state relative-caret-position="19">
+                  <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -177,6 +121,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -193,14 +138,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/Order.java" />
         <option value="$PROJECT_DIR$/document/pageTable.txt" />
         <option value="$PROJECT_DIR$/document/orders.txt" />
         <option value="$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/UnmodifiedSignal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/ModifiedSignal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/UnModifiedOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/ModifiedOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java" />
+        <option value="$PROJECT_DIR$/document/pageTableElements.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/UsefulStorageElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/pojo/PageTable.java" />
         <option value="$PROJECT_DIR$/src/main/java/core/StorageManagement.java" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -217,161 +168,162 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="496" />
-    <option name="y" value="73" />
-    <option name="width" value="1650" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="731" />
+    <option name="y" value="177" />
+    <option name="width" value="1025" />
     <option name="height" value="803" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectUserFactors">
     <factor id="binaryFeature:liftShorter">
       <dailyData date="6-7-2018">
-        <observation name="false" value="242.0" />
+        <observation name="false" value="479.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="31.0" />
-        <observation name="false" value="211.0" />
+        <observation name="UNDEFINED" value="57.0" />
+        <observation name="false" value="422.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
       <dailyData date="6-7-2018">
-        <observation name="false" value="242.0" />
+        <observation name="false" value="478.0" />
+        <observation name="true" value="1.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
       <dailyData date="6-7-2018">
-        <observation name="0" value="85.0" />
-        <observation name="UNDEFINED" value="157.0" />
+        <observation name="0" value="180.0" />
+        <observation name="UNDEFINED" value="299.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="76.0" />
-        <observation name="true" value="144.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="136.0" />
+        <observation name="true" value="298.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="140.0" />
-        <observation name="true" value="80.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="263.0" />
+        <observation name="true" value="171.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="150.0" />
-        <observation name="true" value="70.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="291.0" />
+        <observation name="true" value="143.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="134.0" />
-        <observation name="true" value="86.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="235.0" />
+        <observation name="true" value="199.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="162.0" />
-        <observation name="true" value="58.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="335.0" />
+        <observation name="true" value="99.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
       <dailyData date="6-7-2018">
-        <observation name="false" value="239.0" />
-        <observation name="true" value="3.0" />
+        <observation name="false" value="468.0" />
+        <observation name="true" value="11.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
       <dailyData date="6-7-2018">
-        <observation name="NORMAL" value="219.0" />
-        <observation name="UNDEFINED" value="23.0" />
+        <observation name="NORMAL" value="433.0" />
+        <observation name="UNDEFINED" value="46.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="23.0" />
-        <observation name="expected" value="51.0" />
-        <observation name="maybeExpected" value="9.0" />
-        <observation name="normal" value="157.0" />
-        <observation name="ofDefaultType" value="2.0" />
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="expected" value="109.0" />
+        <observation name="maybeExpected" value="15.0" />
+        <observation name="normal" value="295.0" />
+        <observation name="ofDefaultType" value="14.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:kind">
       <dailyData date="6-7-2018">
         <observation name="OTHER" value="1.0" />
-        <observation name="UNDEFINED" value="23.0" />
-        <observation name="classNameOrGlobalStatic" value="56.0" />
-        <observation name="expectedTypeVariable" value="27.0" />
-        <observation name="normal" value="96.0" />
-        <observation name="probableKeyword" value="6.0" />
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="classNameOrGlobalStatic" value="98.0" />
+        <observation name="expectedTypeVariable" value="46.0" />
+        <observation name="normal" value="201.0" />
+        <observation name="probableKeyword" value="10.0" />
         <observation name="suitableClass" value="1.0" />
-        <observation name="variable" value="32.0" />
+        <observation name="variable" value="76.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="unknown" value="220.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="unknown" value="434.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_javaInheritance">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="false" value="53.0" />
-        <observation name="null" value="162.0" />
-        <observation name="true" value="5.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="false" value="93.0" />
+        <observation name="null" value="334.0" />
+        <observation name="true" value="7.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_referenceList">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="unknown" value="220.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="unknown" value="434.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:recursion">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="97.0" />
-        <observation name="normal" value="144.0" />
-        <observation name="recursive" value="1.0" />
+        <observation name="UNDEFINED" value="177.0" />
+        <observation name="normal" value="299.0" />
+        <observation name="recursive" value="3.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="6-7-2018">
-        <observation name="cancelled" value="546.0" />
-        <observation name="explicitSelect" value="174.0" />
-        <observation name="typedSelect" value="68.0" />
+        <observation name="cancelled" value="1085.0" />
+        <observation name="explicitSelect" value="366.0" />
+        <observation name="typedSelect" value="113.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="6-7-2018">
-        <observation name="BASIC" value="295.0" />
+        <observation name="BASIC" value="584.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="6-7-2018">
-        <observation name="count" value="788.0" />
+        <observation name="count" value="1564.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
       <dailyData date="6-7-2018">
-        <observation name="average" value="0.095238" />
-        <observation name="count" value="483.0" />
+        <observation name="average" value="0.137931" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.049285" />
+        <observation name="variance" value="0.078838" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:grouping">
       <dailyData date="6-7-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="483.0" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -379,95 +331,95 @@
     </factor>
     <factor id="doubleFeature:mostUsed">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="239.0" />
-        <observation name="average" value="-1.8" />
-        <observation name="count" value="5.0" />
+        <observation name="UNDEFINED" value="432.0" />
+        <observation name="average" value="-14.698925" />
+        <observation name="count" value="93.0" />
         <observation name="max" value="-1.0" />
-        <observation name="min" value="-2.0" />
-        <observation name="variance" value="0.054444" />
+        <observation name="min" value="-38.0" />
+        <observation name="variance" value="217.724595" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="23.0" />
-        <observation name="average" value="-0.132723" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="average" value="-0.12948" />
+        <observation name="count" value="865.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-3.0" />
-        <observation name="variance" value="0.201808" />
+        <observation name="variance" value="0.208467" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
       <dailyData date="6-7-2018">
-        <observation name="average" value="0.057971" />
-        <observation name="count" value="483.0" />
+        <observation name="average" value="0.104493" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="4.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.060959" />
+        <observation name="variance" value="0.135426" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
       <dailyData date="6-7-2018">
-        <observation name="average" value="-1071.445135" />
-        <observation name="count" value="483.0" />
+        <observation name="average" value="-1072.503657" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="-1203.0" />
-        <observation name="variance" value="38879.76998" />
+        <observation name="min" value="-1253.0" />
+        <observation name="variance" value="47937.536667" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
       <dailyData date="6-7-2018">
-        <observation name="average" value="-0.068323" />
-        <observation name="count" value="483.0" />
+        <observation name="average" value="-0.047022" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="-1.0" />
-        <observation name="variance" value="0.071225" />
+        <observation name="variance" value="0.058027" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_explicitlyImported">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="average" value="127.562642" />
-        <observation name="count" value="439.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="average" value="124.452134" />
+        <observation name="count" value="867.0" />
         <observation name="max" value="300.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="13898.226293" />
+        <observation name="variance" value="15039.405638" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="average" value="1.708428" />
-        <observation name="count" value="439.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="average" value="1.513264" />
+        <observation name="count" value="867.0" />
         <observation name="max" value="8.0" />
         <observation name="min" value="-1.0" />
-        <observation name="variance" value="9.365188" />
+        <observation name="variance" value="9.112623" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="average" value="0.938497" />
-        <observation name="count" value="439.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="average" value="1.024221" />
+        <observation name="count" value="867.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.845096" />
+        <observation name="variance" value="0.889888" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="22.0" />
-        <observation name="average" value="0.514806" />
-        <observation name="count" value="439.0" />
+        <observation name="UNDEFINED" value="45.0" />
+        <observation name="average" value="0.558247" />
+        <observation name="count" value="867.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.518128" />
+        <observation name="variance" value="0.590934" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
       <dailyData date="6-7-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="483.0" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -475,38 +427,38 @@
     </factor>
     <factor id="doubleFeature:result_length">
       <dailyData date="6-7-2018">
-        <observation name="average" value="9.436853" />
-        <observation name="count" value="483.0" />
-        <observation name="max" value="55.0" />
+        <observation name="average" value="10.031348" />
+        <observation name="count" value="957.0" />
+        <observation name="max" value="63.0" />
         <observation name="min" value="1.0" />
-        <observation name="variance" value="38.208138" />
+        <observation name="variance" value="42.614935" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="23.0" />
-        <observation name="average" value="-0.15103" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="average" value="-0.147977" />
+        <observation name="count" value="865.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-3.0" />
-        <observation name="variance" value="0.217464" />
+        <observation name="variance" value="0.223493" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="23.0" />
-        <observation name="average" value="-77.652174" />
-        <observation name="count" value="437.0" />
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="average" value="-76.138728" />
+        <observation name="count" value="865.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-999.0" />
-        <observation name="variance" value="62800.989406" />
+        <observation name="variance" value="64217.714641" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="23.0" />
+        <observation name="UNDEFINED" value="46.0" />
         <observation name="average" value="0.0" />
-        <observation name="count" value="437.0" />
+        <observation name="count" value="865.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -515,7 +467,7 @@
     <factor id="doubleFeature:sorter">
       <dailyData date="6-7-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="483.0" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -523,54 +475,55 @@
     </factor>
     <factor id="doubleFeature:statics">
       <dailyData date="6-7-2018">
-        <observation name="UNDEFINED" value="160.0" />
-        <observation name="average" value="-2.521472" />
-        <observation name="count" value="163.0" />
+        <observation name="UNDEFINED" value="327.0" />
+        <observation name="average" value="-2.782178" />
+        <observation name="count" value="303.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-5.0" />
-        <observation name="variance" value="1.418211" />
+        <observation name="variance" value="1.468694" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
       <dailyData date="6-7-2018">
-        <observation name="average" value="2870.447205" />
-        <observation name="count" value="483.0" />
+        <observation name="average" value="2743.07837" />
+        <observation name="count" value="957.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="18544966.93037" />
+        <observation name="variance" value="18707748.402079" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
       <dailyData date="6-7-2018">
-        <observation name="0" value="164.0" />
-        <observation name="1" value="8.0" />
-        <observation name="2" value="1.0" />
-        <observation name="4" value="1.0" />
+        <observation name="0" value="335.0" />
+        <observation name="1" value="19.0" />
+        <observation name="2" value="8.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="3.0" />
       </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="6-7-2018">
-        <observation name="total" value="128.0" />
-        <observation name="withMnemonics" value="18.0" />
+        <observation name="total" value="282.0" />
+        <observation name="withMnemonics" value="28.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
       <dailyData date="6-7-2018">
-        <observation name="0" value="13.0" />
-        <observation name="1" value="33.0" />
-        <observation name="2" value="39.0" />
-        <observation name="3" value="49.0" />
-        <observation name="4" value="28.0" />
-        <observation name="5" value="7.0" />
+        <observation name="0" value="26.0" />
+        <observation name="1" value="58.0" />
+        <observation name="2" value="82.0" />
+        <observation name="3" value="116.0" />
+        <observation name="4" value="59.0" />
+        <observation name="5" value="18.0" />
         <observation name="6" value="1.0" />
-        <observation name="7" value="3.0" />
+        <observation name="7" value="5.0" />
         <observation name="8" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
       <dailyData date="6-7-2018">
-        <observation name="average" value="177.43125" />
-        <observation name="count" value="320.0" />
+        <observation name="average" value="171.209814" />
+        <observation name="count" value="591.0" />
       </dailyData>
     </factor>
   </component>
@@ -651,7 +604,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1530862579905" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1530869158232" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -700,31 +653,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530858649993</updated>
-      <workItem from="1530858655067" duration="3919000" />
+      <workItem from="1530858655067" duration="10002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3919000" />
+    <option name="totallyTimeSpent" value="10002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="397" y="59" width="1320" height="642" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22107765" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19034852" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3280943" />
+      <window_info anchor="bottom" id="Messages" weight="0.32765958" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.45579568" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.5092199" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.8231827" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.120567374" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -785,35 +737,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/document/orders.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#887#888#0" expanded="true" />
-            <element signature="e#923#924#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,55 +780,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bootstrap/Bootstrap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/ModifiedOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/UnModifiedOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/pageTableElements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/UsefulStorageElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/PageTableElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="45" />
+          <folding>
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pojo/PageTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="47" column="63" lean-forward="true" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        <state relative-caret-position="255">
+          <caret line="34" column="127" selection-start-line="34" selection-start-column="127" selection-end-line="34" selection-end-column="127" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1424#1425#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#540#562#0" expanded="true" />
+            <element signature="e#3063#3064#0" expanded="true" />
+            <element signature="e#3107#3108#0" expanded="true" />
+            <element signature="e#2653#2654#0" expanded="true" />
+            <element signature="e#2691#2692#0" expanded="true" />
+            <element signature="e#2730#2731#0" expanded="true" />
+            <element signature="e#2765#2766#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/core/StorageManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="15" column="132" selection-start-line="15" selection-start-column="132" selection-end-line="15" selection-end-column="132" />
+        <state relative-caret-position="969">
+          <caret line="51" column="94" selection-start-line="51" selection-start-column="94" selection-end-line="51" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/document/pageTableElements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="8" />
         </state>
       </provider>
     </entry>

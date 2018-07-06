@@ -8,11 +8,15 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class PageTable {
+    private static int location = 0;
+
     private PageTable() {
     }
 
     private static ArrayList<Order> orders = new ArrayList<Order>();
-    private static ArrayList<PageTableElement> pageTableElements = new ArrayList<PageTableElement>();
+    private static ArrayList<PageTableElement> pageTableElements = new ArrayList<PageTableElement>();//存储所有的
+    private static ArrayList<UsefulStorageElement> usefulStorageElements = new ArrayList<UsefulStorageElement>();//用来进行调度
+    private static int size = 0;
 
     static {
         BufferedReader bufferedReader = null;
@@ -22,10 +26,15 @@ public class PageTable {
             while ((line = bufferedReader.readLine()) != null) {
                 StringTokenizer stringTokenizer = new StringTokenizer(line, " ");
                 String pageNumber = stringTokenizer.nextToken();
-                String siganl = stringTokenizer.nextToken();
+                String signal = stringTokenizer.nextToken();
                 String blockNumber = stringTokenizer.nextToken();
+                String modifiedSignal = stringTokenizer.nextToken();
                 String diskLocation = stringTokenizer.nextToken();
-                pageTableElements.add(new PageTableElement(pageNumber, siganl, blockNumber, diskLocation));
+                pageTableElements.add(new PageTableElement(pageNumber, signal, blockNumber, modifiedSignal, diskLocation));
+                if (Integer.parseInt(signal) == 1) {
+                    usefulStorageElements.add(new UsefulStorageElement(pageNumber, blockNumber, modifiedSignal, diskLocation));
+                    size++;
+                }
             }
         } catch (IOException e) {
             e.printStackTrace();
@@ -67,6 +76,18 @@ public class PageTable {
 
     public static ArrayList<Order> getOrders() {
         return orders;
+    }
+
+    public static ArrayList<UsefulStorageElement> getUsefulStorageElements() {
+        return usefulStorageElements;
+    }
+
+    public static void setLocation(int newLocation) {
+        location = newLocation;
+    }
+
+    public static int getLocation() {
+        return location % size;
     }
 }
 
